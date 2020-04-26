@@ -1,11 +1,11 @@
 # vuetest
 
-## Project setup
+## 安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动
 ```
 npm run serve
 ```
