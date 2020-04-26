@@ -11,6 +11,11 @@ Vue.use(VueRouter)
     component: Home
   },
   {
+    path: '/appeal',
+    name: 'Appeal',
+    component: () => import('../views/appeal/index.vue')
+  },
+  {
     path: '/about',
     name: 'About',
     // route level code-splitting
